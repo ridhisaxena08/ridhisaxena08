@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate developer and B.Tech CSE student 
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Connect Here](https://linkedin.com) 💼
+- **LinkedIn:** [Connect Here]([https://linkedin.com](https://www.linkedin.com/in/ridhi-saxena-73aab6326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 💼
 - **GitHub:** [Follow Me](https://github.com/ridhisaxena08) 💻
 - **Email:** [ridhisaxena08@gmail.com](mailto:ridhisaxena08@gmail.com) 📧
 
